@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anushka Saxena</h1>
-<h3 align="center">A passionate frontend developer and code junkie from India</h3>
+<h3 align="center">A passionate Analyst and code junkie from India</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2300748/screenshots/4918402/image.gif">
-- 🌱 I’m currently learning **Machine learning, Python, Full stack**
+- 🌱 I’m currently learning **SQL, Power BI , Python , and other related tools**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Business Insights**
 
-- 📫 How to reach me **anushka20020508@gmail.com**
+- 📫 How to reach me **saxenaanushka2002@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy to reach the goal.**
 
